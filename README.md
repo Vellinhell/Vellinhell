@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Vellinhell
+- 👀 I’m interested in programming in java
+- 🌱 I’m currently learning git
